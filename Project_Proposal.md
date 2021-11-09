@@ -5,6 +5,7 @@ In this work, Exploratory Data Analysis (EDA) will be carried out on a Students 
 
 # Question/Need:
 The benefits gained from this Exploratory Data Analysis which is:
+
 1-Does Gender have any relation with overall score of students in academics.
 2-Is parental level of education effect the Students overall performance
 3-Does Race have any realation with students performance .
