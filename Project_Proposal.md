@@ -19,7 +19,7 @@ This data we will be using consists of the Marks secured by the students in high
 
 | Field Name | Description                                                                     |
 |-----------------------------|---------------------------------------------------------------------------------|
-| Gender                      | Male/ Female                                                                    | 
+| Gender                      | Male/Female                                                                     | 
 | Race/Ethnicity              | Group division from A to E                                                      |    
 | Parental Level of Education | Details of parental education varying from high school to master's degree       |
 | Lunch                       | Type of lunch selected                                                          |
