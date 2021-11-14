@@ -12,8 +12,6 @@ The benefits gained from this Exploratory Data Analysis which is:
 
 3-Does race have any relation with students performance?
 
-4-We Will do all the Things That will Effect the Students Performance.
-
 
 # Data Description
 This data we will be using consists of the Marks secured by the students in high school from the United States in various subjects.
