@@ -1,7 +1,7 @@
 # Analysis of Parental level of education influence on students grades (MVP)
 The purpose of the analysis is to understand the influence of various factors like economic, personal and social on the students performance.
 
-From my first impression we get the answer of does parental level of education effect the students overall performance.
+From my first impression we get an answer for, Does parental level of education effect the students overall performance?
 
 Conclusion is that those students who have masters parental level of education are overall good at studies as compared to other students.
 ### Figure 1
