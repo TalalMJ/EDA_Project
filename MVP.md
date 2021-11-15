@@ -7,4 +7,4 @@ Conclusion from first impression is that the parental level of education doesn't
 ![Grades](https://user-images.githubusercontent.com/93079224/141859509-fb2c1c8a-0094-4d77-8fd9-c8cd003d58cf.png)
 
 ### Figure 2
-![PLE](https://user-images.githubusercontent.com/93079224/141859542-046a70db-dc5a-4a84-93c0-719cf0307118.png)
+![PNE](https://user-images.githubusercontent.com/93079224/141860651-a2f89b7a-1828-4c3d-87e5-7edef0791b01.png)
