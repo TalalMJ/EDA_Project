@@ -10,7 +10,7 @@ The benefits gained from this Exploratory Data Analysis which is:
 
 2-Does parental level of education effect the students overall performance?
 
-3-Does race have any relation with students performance?
+3-Effectiveness of test preparation course.
 
 
 # Data Description
